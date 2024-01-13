@@ -25,3 +25,5 @@
     - install the dependencies using npm install (or npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom)
     - run with npm run dev command
     - open on localHost
+
+*** if you get a white screen when loading the page, this mean your node_modules package that was create when you ran the npm install command is wrong
