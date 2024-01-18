@@ -22,6 +22,13 @@
 - to run on your local machine:
     - have Git, Node.js, npm installed
     - clone the repo
-    - install the dependencies using npm install
+    - install the dependencies using npm install (or npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom)
     - run with npm run dev command
     - open on localHost
+
+*** if you get a white screen when loading the page, this mean your node_modules package that was create when you ran the npm install command is wrong
+
+
+<h4 align="center">Link to preview of Portfolio</h4>
+
+[![AxelMoranC.github.io](https://img.youtube.com/vi/p0NflJPJHCQ/0.jpg)](https://www.youtube.com/watch?v=p0NflJPJHCQ)
